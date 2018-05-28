@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="umeng-common" />
+        <module name="umeng-hive" />
+        <module name="umeng-phone" />
+        <module name="umeng-scala" />
+        <module name="umeng-spark" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="umeng-common" target="1.5" />
+      <module name="umeng-hive" target="1.5" />
+      <module name="umeng-phone" target="1.5" />
+      <module name="umeng-scala" target="1.5" />
+      <module name="umeng-spark" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

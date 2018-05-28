@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/big10-umeng.iml" filepath="$PROJECT_DIR$/big10-umeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng-common/umeng-common.iml" filepath="$PROJECT_DIR$/umeng-common/umeng-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng-hive/umeng-hive.iml" filepath="$PROJECT_DIR$/umeng-hive/umeng-hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng-phone/umeng-phone.iml" filepath="$PROJECT_DIR$/umeng-phone/umeng-phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng-scala/umeng-scala.iml" filepath="$PROJECT_DIR$/umeng-scala/umeng-scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng-spark/umeng-spark.iml" filepath="$PROJECT_DIR$/umeng-spark/umeng-spark.iml" />
+    </modules>
+  </component>
+</project>

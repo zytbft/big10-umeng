@@ -1,0 +1,106 @@
+{
+  "appChannel": "anroid bus",
+  "appId": "faobengplay",
+  "appPlatform": "winphone",
+  "appVersion": "2.0.0",
+  "deviceId": "00003165",
+  "deviceStyle": "iphone 7 plus",
+  "errorLogs": [
+    {
+      "createdAtMs": 1520754771641,
+      "errorBrief": "at cn.lift.appIn.control.CommandUtil.getInfo(CommandUtil.java:67)",
+      "errorDetail": "java.lang.NullPointerException at cn.lift.appIn.web.AbstractBaseController.validInbound(AbstractBaseController.java:72) at cn.lift.dfdf.web.AbstractBaseController.validInbound"
+    }
+  ],
+  "eventLogs": [
+    {
+      "createdAtMs": 1520754771641,
+      "eventId": "bookstore"
+    },
+    {
+      "createdAtMs": 1520754771641,
+      "eventId": "bookstore"
+    },
+    {
+      "createdAtMs": 1520754771641,
+      "eventId": "autoImport"
+    },
+    {
+      "createdAtMs": 1520754771641,
+      "eventId": "popmenu"
+    }
+  ],
+  "osType": "1.2.0",
+  "pageLogs": [
+    {
+      "createdAtMs": 1520754771641,
+      "nextPage": "test.html",
+      "pageId": "main.html",
+      "pageViewCntInSession": 0,
+      "stayDurationSecs": 0,
+      "visitIndex": 0
+    }
+  ],
+  "startupLogs": [
+    {
+      "brand": "三星",
+      "carrier": "中国联通",
+      "country": "china",
+      "createdAtMs": 1520754771640,
+      "network": "cell",
+      "province": "guangdong",
+      "screenSize": "1136 * 640"
+    },
+    {
+      "brand": "魅族",
+      "carrier": "中国联通",
+      "country": "china",
+      "createdAtMs": 1520754771640,
+      "network": "3g",
+      "province": "guangxi",
+      "screenSize": "960 * 640"
+    },
+    {
+      "brand": "联想",
+      "carrier": "中国铁通",
+      "country": "china",
+      "createdAtMs": 1520754771640,
+      "network": "wifi",
+      "province": "hebei",
+      "screenSize": "1136 * 640"
+    },
+    {
+      "brand": "魅族",
+      "carrier": "中国电信",
+      "country": "america",
+      "createdAtMs": 1520754771640,
+      "network": "cell",
+      "province": "hebei",
+      "screenSize": "1136 * 640"
+    },
+    {
+      "brand": "魅族",
+      "carrier": "中国电信",
+      "country": "america",
+      "createdAtMs": 1520754771640,
+      "network": "cell",
+      "province": "guangxi",
+      "screenSize": "1136 * 640"
+    }
+  ],
+  "tenantId": "tnt009",
+  "usageLogs": [
+    {
+      "createdAtMs": 1520754771642
+    },
+    {
+      "createdAtMs": 1520754771642
+    },
+    {
+      "createdAtMs": 1520754771642
+    },
+    {
+      "createdAtMs": 1520754771642
+    }
+  ]
+}

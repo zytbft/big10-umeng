@@ -1,0 +1,151 @@
+{
+  "appChannel": "anroid bus",
+  "appId": "sohuvideo",
+  "appPlatform": "ios",
+  "appVersion": "1.1.0",
+  "deviceStyle": "oppo 1",
+  "errorLogs": [
+    {
+      "appChannel": "umeng",
+      "appId": "gaodemap",
+      "appPlatform": "blackberry",
+      "appVersion": "1.1.0",
+      "deviceStyle": "vivo 3",
+      "errorBrief": "at cn.lift.dfdf.web.AbstractBaseController.validInbound(AbstractBaseController.java:72)",
+      "errorDetail": "at cn.lift.dfdfdf.control.CommandUtil.getInfo(CommandUtil.java:67) at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) at java.lang.reflect.Method.invoke(Method.java:606)",
+      "osType": "android 4.0",
+      "tenantId": "tnt023"
+    }
+  ],
+  "eventLogs": [
+    {
+      "appChannel": "anroid bus",
+      "appId": "tianya",
+      "appPlatform": "android",
+      "appVersion": "2.0.0",
+      "deviceStyle": "红米",
+      "eventId": "popmenu",
+      "osType": "ios11",
+      "tenantId": "tnt009"
+    },
+    {
+      "appChannel": "appstore",
+      "appId": "gaodemap",
+      "appPlatform": "android",
+      "appVersion": "1.1.0",
+      "deviceStyle": "iphone 7 plus",
+      "eventId": "popmenu",
+      "osType": "android 4.0",
+      "tenantId": "tnt009"
+    },
+    {
+      "appChannel": "appstore",
+      "appId": "faobengplay",
+      "appPlatform": "blackberry",
+      "appVersion": "1.0.0",
+      "deviceStyle": "vivo 3",
+      "eventId": "autoImport",
+      "osType": "ios11",
+      "tenantId": "tnt009"
+    },
+    {
+      "appChannel": "anroid bus",
+      "appId": "tianya",
+      "appPlatform": "blackberry",
+      "appVersion": "1.1.0",
+      "deviceStyle": "iphone 7 plus",
+      "eventId": "popmenu",
+      "osType": "mi 5.5",
+      "tenantId": "tnt009"
+    },
+    {
+      "appChannel": "anroid bus",
+      "appId": "tianya",
+      "appPlatform": "android",
+      "appVersion": "1.2.0",
+      "deviceStyle": "iphone 7",
+      "eventId": "bookstore",
+      "osType": "ios11",
+      "tenantId": "tnt501"
+    }
+  ],
+  "osType": "ios11",
+  "pageLogs": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "startupLogs": [
+    {
+      "appChannel": "anroid bus",
+      "appId": "faobengplay",
+      "appPlatform": "ios",
+      "appVersion": "1.2.0",
+      "brand": "魅族",
+      "carrier": "中国铁通",
+      "country": "america",
+      "deviceStyle": "vivo 3",
+      "network": "wifi",
+      "osType": "android 4.0",
+      "province": "guangdong",
+      "screenSize": "480 * 320",
+      "tenantId": "tnt501"
+    },
+    {
+      "appChannel": "appstore",
+      "appId": "sohuvideo",
+      "appPlatform": "blackberry",
+      "appVersion": "2.0.0",
+      "brand": "Apple",
+      "carrier": "中国铁通",
+      "country": "china",
+      "deviceStyle": "iphone 7",
+      "network": "3g",
+      "osType": "ios11",
+      "province": "guangxi",
+      "screenSize": "1136 * 640",
+      "tenantId": "tnt501"
+    }
+  ],
+  "tenantId": "tnt009",
+  "usageLogs": [
+    {
+      "appChannel": "umeng",
+      "appId": "gaodemap",
+      "appPlatform": "winphone",
+      "appVersion": "1.1.0",
+      "deviceStyle": "iphone 7",
+      "osType": "ios11",
+      "tenantId": "tnt009"
+    },
+    {
+      "appChannel": "anroid bus",
+      "appId": "tianya",
+      "appPlatform": "android",
+      "appVersion": "1.2.0",
+      "deviceStyle": "iphone 6",
+      "osType": "android 4.0",
+      "tenantId": "tnt501"
+    },
+    {
+      "appChannel": "umeng",
+      "appId": "tianya",
+      "appPlatform": "winphone",
+      "appVersion": "1.0.0",
+      "deviceStyle": "vivo 3",
+      "osType": "mi 5.5",
+      "tenantId": "tnt023"
+    },
+    {
+      "appChannel": "umeng",
+      "appId": "sohuvideo",
+      "appPlatform": "android",
+      "appVersion": "1.0.0",
+      "deviceStyle": "iphone 6 plus",
+      "osType": "mi 5.5",
+      "tenantId": "tnt023"
+    }
+  ]
+}
