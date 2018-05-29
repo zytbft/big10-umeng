@@ -14,6 +14,9 @@ public class BeanUtil {
 
 	/**
 	 * 生成所有日志子表的sql
+	 *
+	 *
+	 *
 	 */
 	public static List<String> genDDLs(Class[] clazz, String[] tables){
 		List<String> sqls = new ArrayList<String>() ;
